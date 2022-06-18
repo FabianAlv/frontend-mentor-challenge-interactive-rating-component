@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Screenshots
 
-![Fisrt Page](./screenshot/first-page.png)
+![Fisrt Page](./screenshots/first-page.png)
 
-![Second Page](./screenshot/first-page.png)
+![Second Page](./screenshots/first-page.png)
 
 ### Links
 
