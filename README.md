@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshots
 
-![Fisrt Page](./screenshot/first-page.png)
+![Fisrt Page](./screenshots/first-page.png)
 
-![Second Page](./screenshot/first-page.png)
+![Second Page](./screenshots/first-page.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/FabianAlv/frontend-mentor-challenge-interactive-rating-component/tree/master)
+- Solution URL: [Add solution URL here](https://github.com/FabianAlv/frontend-mentor-challenge-interactive-rating-component/tree/gh-pages)
 - Live Site URL: [Add live site URL here](https://fabianalv.github.io/frontend-mentor-challenge-interactive-rating-component/)
 
 ## My process
